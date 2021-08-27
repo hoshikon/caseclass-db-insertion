@@ -1,0 +1,6 @@
+logs/*
+**/target/
+.idea/
+project/project/
+!.idea/runConfigurations
+**/.DS_Store
